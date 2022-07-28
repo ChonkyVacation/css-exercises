@@ -1,0 +1,20 @@
+.ss {
+    background-color:rgb(199, 33, 89);
+    font-family:"Verdana", "DejaVu Sans", "Sans-serif";
+    
+}
+
+#num2 {
+    color:rgb(36, 33, 199);
+    font-size:36px;
+}
+
+.ss.num3 {
+    font-size:24px;
+}
+
+#num4 {
+    background-color: rgb(135, 250, 90);
+    font-size:24px;
+    font-weight:bold;
+}
